@@ -6,21 +6,21 @@ If you are an admin or an authorized representative for your organization, you c
 * Admin verification - This process allows us to gather information about you so we can verify your identity as a person, if you do not have a business entity.  
 # Business verification  
   
-Open your web browser and navigate to the [Meta Quest Org Manager](https://developer.oculus.com/manage).  
-From the left-side navigation, click Verification.  
-Click Start verification under Business verification.  
-Enter your organization details and click Next.  
-Select the correct business from the list, or select None of these match if you don’t see your organization on the list.  
-Confirm your organization details.  
-Choose how you want to receive your verification code, either through text message, phone call, or email.  
-Enter your verification code.  
-Click Submit.  
-Once you receive confirmation that your organization is verified, there’s nothing more you need to do. You’ll receive a notification when the review is complete.  
+1. Open your web browser and navigate to the [Meta Quest Org Manager](https://developer.oculus.com/manage).  
+2. From the left-side navigation, click Verification.  
+3. Click Start verification under Business verification.  
+4. Enter your organization details and click Next.  
+5. Select the correct business from the list, or select None of these match if you don’t see your organization on the list.  
+6. Confirm your organization details.  
+7. Choose how you want to receive your verification code, either through text message, phone call, or email.  
+8. Enter your verification code.  
+9. Click Submit.  
+10. Once you receive confirmation that your organization is verified, there’s nothing more you need to do. You’ll receive a notification when the review is complete.  
   
 # Admin verification  
   
-Open your web browser and navigate to the [Meta Quest Org Manager](https://developer.oculus.com/manage).  
-From the left-side navigation, click Verification.  
-Click Add myself under Admin verification.  
-Certify that you are an authorized representative of your organization and click Continue.  
-Click Start verification and you will be redirected to another Meta site to complete the verification process.  
+1. Open your web browser and navigate to the [Meta Quest Org Manager](https://developer.oculus.com/manage).  
+2. From the left-side navigation, click Verification.  
+3. Click Add myself under Admin verification.  
+4. Certify that you are an authorized representative of your organization and click Continue.  
+5. Click Start verification and you will be redirected to another Meta site to complete the verification process.  
