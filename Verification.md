@@ -6,7 +6,7 @@ If you are an admin or an authorized representative for your organization, you c
 * Admin verification - This process allows us to gather information about you so we can verify your identity as a person, if you do not have a business entity.
 # Business verification
 
-Open your web browser and navigate to the [Meta Quest Org Manager](https://developer.oculus.com/manage).
+Open your web browser and navigate to the [Meta Quest Org Manager](https://developer.oculus.com/manage).  
 From the left-side navigation, click Verification.
 Click Start verification under Business verification.
 Enter your organization details and click Next.
