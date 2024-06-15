@@ -2,8 +2,8 @@
 
 If you are an admin or an authorized representative for your organization, you can start verification by navigating to the Organization Verification page from the App Submission page, Data Use Checkup page, or the Org Manager menu. If your organization is unverified, you’ll see a notification to start verification. On the Organization verification page, you’ll be able to complete one of two processes:
 
-Business verification - This process allows us to gather information about you and your developer organization so we can verify your identity as a legal business entity.
-Admin verification - This process allows us to gather information about you so we can verify your identity as a person, if you do not have a business entity.
+* Business verification - This process allows us to gather information about you and your developer organization so we can verify your identity as a legal business entity.
+* Admin verification - This process allows us to gather information about you so we can verify your identity as a person, if you do not have a business entity.
 # Business verification
 
 Open your web browser and navigate to the Meta Quest Org Manager.
